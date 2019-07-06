@@ -13,8 +13,8 @@ superuser: true
 role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
- organizations:
- - name: Research Group
+organizations:
+- name: Research Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

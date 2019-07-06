@@ -25,7 +25,7 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 
-countries:
+education:
   courses:
   - course: Mexico
  #   institution: Stanford University

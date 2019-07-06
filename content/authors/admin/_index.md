@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Family Migration and Early Life Outcomes
 
 # Username (this should match the folder name)
 authors:

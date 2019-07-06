@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
  organizations:
- - name: ""
+ - name: Research Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

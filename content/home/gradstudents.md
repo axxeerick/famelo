@@ -1,7 +1,7 @@
 +++
 # Graduate Students
 widget = "collaborators"
-active = true
+active = false
 date = "2017-11-18"
 
 title = "Graduate Students"

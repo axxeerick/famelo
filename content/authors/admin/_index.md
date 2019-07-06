@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Mexico
-   institution: Stanford University
+    institution: Stanford University
     year: 2012
   - course: Mozambique
     institution: Massachusetts Institute of Technology

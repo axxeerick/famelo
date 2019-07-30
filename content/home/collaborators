@@ -1,7 +1,7 @@
 +++
 # Collaborators
 widget = "collaborators"
-active = false
+active = true
 date = "2017-11-18"
 
 title = "Collaborators"
@@ -15,21 +15,21 @@ weight = 5
 	image = "josh_tenenbaum.jpg"
 	position = "MIT"
 	link = "http://web.mit.edu/cocosci/josh.html"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Noah Goodman"
 	image = "noah_goodman.jpg"
 	position = "Stanford University"
 	link = "https://cocolab.stanford.edu/ndg.html"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "David Lagnado"
 	image = "david_lagnado.jpg"
 	position = "University College London"
 	link = "http://www.ucl.ac.uk/lagnado-lab/david_lagnado.html"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Anastasia Ejova"
@@ -50,7 +50,7 @@ weight = 5
 	image = "anne_schlottmann.jpg"
 	position = "University College London"
 	link = "https://www.ucl.ac.uk/pals/research/experimental-psychology/person/anne-schlottmann/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Basil Saeed"
@@ -99,7 +99,7 @@ weight = 5
 	image = "ilker_yildirim.jpg"
 	position = "MIT"
 	link = "http://www.mit.edu/~ilkery/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "John Mccoy"
@@ -120,14 +120,14 @@ weight = 5
 	image = "jonathan_kominsky.jpg"
 	position = "Harvard"
 	link = "http://www.jfkominsky.com/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Jonathan Phillips"
 	image = "jonathan_phillips.jpg"
 	position = "Harvard"
 	link = "http://people.fas.harvard.edu/~phillips01/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Joseph Halpern"
@@ -141,21 +141,21 @@ weight = 5
 	image = "hyowon_gweon.jpg"
 	position = "Stanford University"
 	link = "http://sll.stanford.edu/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Thomas Icard"
 	image = "thomas_icard.png"
 	position = "Stanford University"
 	link = "https://web.stanford.edu/~icard/index.html"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Justin Gardner"
 	image = "justin_gardner.jpg"
 	position = "Stanford University"
 	link = "http://gru.stanford.edu/doku.php"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Joshua Hartshorne"
@@ -197,14 +197,14 @@ weight = 5
 	image = "kevin_smith.png"
 	position = "MIT"
 	link = "http://www.mit.edu/~k2smith/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Laura Niemi"
 	image = "laura_niemi.png"
 	position = "Duke"
 	link = "https://lauraniemi.com/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Liang Zhou"
@@ -239,7 +239,7 @@ weight = 5
 	image = "max_kleiman-weiner.jpg"
 	position = "MIT"
 	link = "http://www.mit.edu/~maxkw/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Michael Waldmann"
@@ -253,7 +253,7 @@ weight = 5
 	image = "neil_bramley.jpg"
 	position = "NYU"
 	link = "https://cims.nyu.edu/~bramley/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Pascale Willemsen"

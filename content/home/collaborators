@@ -11,11 +11,11 @@ subtitle = "Some of the people we work with"
 weight = 5
 
 [[collaborator]]
-	id = "Josh Tenenbaum"
-	image = "josh_tenenbaum.jpg"
-	position = "MIT"
-	link = "http://web.mit.edu/cocosci/josh.html"
-	show = false
+	id = "John Smith"
+	image = ""
+	position = "Ohio State University"
+	link = ""
+	show = true
 
 [[collaborator]]
 	id = "Noah Goodman"

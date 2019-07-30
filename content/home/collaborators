@@ -1,6 +1,7 @@
 +++
 # Collaborators
 widget = "collaborators"
+headless = true
 active = true
 date = "2017-11-18"
 

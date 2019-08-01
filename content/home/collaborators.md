@@ -2,7 +2,7 @@
 # Collaborators
 widget = "collaborators"
 headless = true
-active = true
+active = false
 date = "2017-11-18"
 
 title = "Collaborators"

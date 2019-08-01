@@ -19,5 +19,5 @@ Some of the questions that guide our research:
 2. P2 question
 3. P3 question
 
-We coduct households surveys in Mexico, Mozambique, and Nepal...
+We conduct households surveys in Mexico, Mozambique, and Nepal...
 

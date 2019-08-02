@@ -24,4 +24,4 @@ weight = 1
 +++
 
 <br>
-Migration is an increasingly prevalent demographic behavior that has important consequences for families and communities around the world. Families and households play a central role in shaping migration decisions. In turn, migrants can produce important economic returns to the households from which they originate. Both migration decisions and eventual remittances have important implications for children’s development and future opportunities. Yet, we know comparatively little about the dynamic role migration may play in children’s lives. The Family Migration and Early Life Outcomes (FAMELO) project begins to fill these gaps by conducting comparable longitudinal surveys of children and their caregivers in households with and without migrants in three traditional sending areas: Jalisco, Mexico; Gaza, Mozambique; and Chitwan, Nepal.
+The Family Migration and Early Life Outcomes (FAMELO) studies the dynamic role migration may play in children’s lives. to fill these gaps 

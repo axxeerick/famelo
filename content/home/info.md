@@ -19,4 +19,6 @@ The project is made up of three distinct but interlinked studies analyzing child
 2. Educational aspirations and expectations
 3. Early family formation and transition to adulthood
 
-Research was supported by the Eunice Kennedy Shriver National Institute of Child Health & Human Development of the National Institutes of Health under Award Number P01HD080659. The content is solely the responsibility of the researchers and does not necessarily represent the official views of the National Institutes of Health.
+We asks these questions by conducting comparable longitudinal surveys of children and their caregivers in households with and without migrants in three traditional sending areas: Jalisco, Mexico; Gaza, Mozambique; and Chitwan, Nepal.
+
+

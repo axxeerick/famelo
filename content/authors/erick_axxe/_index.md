@@ -1,6 +1,6 @@
 ---
 # Display name
-name: [Erick Axxe](https://www.axxe.netlify.com)
+name: Erick Axxe
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Erick Axxe
+name: [Erick Axxe](https://www.axxe.netlify.com)
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Project Manager
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:

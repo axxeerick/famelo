@@ -33,7 +33,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [https://journals.sagepub.com/doi/10.1177/0971333617747345]
+url_custom = ["https://journals.sagepub.com/doi/10.1177/0971333617747345"]
 
 [header]
 #image = ""

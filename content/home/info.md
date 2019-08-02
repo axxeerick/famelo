@@ -19,6 +19,6 @@ The project is made up of three distinct but interlinked studies analyzing child
 2. Educational aspirations and expectations
 3. Early family formation and transition to adulthood
 
-We ask these questions by conducting comparable longitudinal surveys of children and their caregivers in households with and without migrants in three traditional sending areas: Jalisco, Mexico; Gaza, Mozambique; and Chitwan, Nepal.
+We study these topics by conducting comparable longitudinal surveys of children and their caregivers in households with and without migrants in three traditional sending areas: Jalisco, Mexico; Gaza, Mozambique; and Chitwan, Nepal.
 
 

@@ -8,21 +8,20 @@
 # 5 -> 'Thesis'
 
 title = "Adults’ Conceptualisations of Children’s Social Competence in Nepal and Malawis"
-date = "2015-01-01"
-authors = ["M. D. Alicke","D. R. Mandel","D. Hilton","T. Gerstenberg","D. A. Lagnado"]
-#authors = ["M. D. Alicke","D. R Mandel","D. Hilton","[T. Gerstenberg](https://tobiasgerstenberg.github.io/)","D. A. Lagnado"]
+date = "2018-29-01"
+authors = ["Danming An","Natalie D. Eggum-Wilkens","Sophia Chae","Sarah Hayford","Scott Yabiku", "Jennifer Glick", "Linlin Zhang"]
 publication_types = ["2"]
-publication = "Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. _Perspectives on Psychological Science_, 10(6), 790-812. "
-publication_short = "_Perspectives on Psychological Science_"
+publication = "An, D., Eggum-Wilkens, N. D., Chae, S., Hayford, S. R., Yabiku, S. T., Glick, J. E., & Zhang, L. (2018). Adults’ Conceptualisations of Children’s Social Competence in Nepal and Malawi. Psychology and Developing Societies, 30(1), 81–104."
+publication_short = "_Psychology and Developing Societies_"
 image_preview = ""
 selected = true
 projects = []
 math = true
 highlight = true
-abstract= "Understanding the causes of human behavior is essential for advancing one's interests and for coordinating social relations. The scientific study of how people arrive at such understandings or explanations has unfolded in four distinguishable epochs in psychology, each characterized by a different metaphor that researchers have used to represent how people think as they attribute causality and blame to other individuals. The first epoch was guided by an _intuitive scientist_ metaphor, which emphasized whether observers perceived behavior to be caused by the unique tendencies of the actor or by common reactions to the requirements of the situation. This metaphor was displaced in the second epoch by an _intuitive lawyer_ depiction that focused on the need to hold people responsible for their misdeeds. The third epoch was dominated by theories of counterfactual thinking, which conveyed a _person as reconstructor_ approach that emphasized the antecedents and consequences of imagining alternatives to events, especially harmful ones. With the current upsurge in moral psychology, the fourth epoch emphasizes the moral-evaluative aspect of causal judgment, reflected in a _person as moralist_ metaphor. By tracing the progression from the person-environment distinction in early attribution theories to present concerns with moral judgment, our goal is to clarify how causal constructs have been used, how they relate to one another, and what unique attributional problems each addresses."
+abstract= "Adults in Nepal (N = 14) and Malawi (N = 12) were interviewed about their views regarding social competence of 5- to 17-year-old children in their societies. Both Nepali and Malawian adults discussed themes consistent with those expected in collectivistic societies with economic challenges (e.g., respect and obedience, family responsibilities, and social relationships). There were also unique themes emphasised in each country, which may correspond with country-specific religious beliefs or social problems (e.g., rules and self-control, and sexual restraint). Results provide novel information regarding adults’ perceptions of children’s social competence in Nepal and Malawi, and may help guide the development of measures of social competence."
 
 # Links (optional).
-url_pdf = "papers/alicke2015conceptions.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -13,11 +13,10 @@ weight = 2
 
 +++
 
-Some of the questions that guide our research: 
+The project is made up of three distinct but interlinked studies analyzing children's:
 
-1. P1 question
-2. P2 question
-3. P3 question
+1. Socioemotional development
+2. Educational aspirations and expectations
+3. Early family formation and transition to adulthood
 
-We conduct households surveys in Mexico, Mozambique, and Nepal...
-
+Research was supported by the Eunice Kennedy Shriver National Institute of Child Health & Human Development of the National Institutes of Health under Award Number P01HD080659. The content is solely the responsibility of the researchers and does not necessarily represent the official views of the National Institutes of Health.

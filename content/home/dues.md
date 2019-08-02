@@ -9,7 +9,7 @@ date = "2017-11-18"
 #subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 700
 
 +++
 

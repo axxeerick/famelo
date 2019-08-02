@@ -24,4 +24,4 @@ weight = 1
 +++
 
 <br>
-The Family Migration and Early Life Outcomes (FAMELO) studies the dynamic role migration may play in children’s lives. to fill these gaps 
+The Family Migration and Early Life Outcomes (FAMELO) studies the dynamic role migration may play in children’s lives.

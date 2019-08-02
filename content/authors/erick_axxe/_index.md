@@ -22,17 +22,12 @@ bio:
 
 interests:
 
-education:
-  courses:
-  - course: Mexico
-    institution: 
-    year: 
-  - course: Mozambique
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: Nepal
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: Mexico
+#    institution: 
+#    year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -63,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Grad Students
 ---
 
 Description Goes Here

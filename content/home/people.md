@@ -14,5 +14,5 @@ user_groups = ["Principal Investigators",
                "Researchers",
                "Site Partners",
                "Graduate Students",
-               "Advisors"]
+               "Consultants"]
 +++

@@ -8,7 +8,7 @@
 # 5 -> 'Thesis'
 
 title = "Adults’ Conceptualisations of Children’s Social Competence in Nepal and Malawis"
-date = "January 2018"
+date = "January 28, 2018"
 authors = ["Danming An","Natalie D. Eggum-Wilkens","Sophia Chae","Sarah Hayford","Scott Yabiku", "Jennifer Glick", "Linlin Zhang"]
 publication_types = ["2"]
 publication = "An, D., Eggum-Wilkens, N. D., Chae, S., Hayford, S. R., Yabiku, S. T., Glick, J. E., & Zhang, L. (2018). Adults’ Conceptualisations of Children’s Social Competence in Nepal and Malawi. Psychology and Developing Societies, 30(1), 81–104."
@@ -33,7 +33,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = ["https://journals.sagepub.com/doi/10.1177/0971333617747345"]
+url_custom = [{name = "Article", url = "https://journals.sagepub.com/doi/10.1177/0971333617747345"}]
 
 [header]
 #image = ""

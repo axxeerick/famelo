@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "Bidirectional Relations Between Parenting and Behavior Problems From Age 8 to 13 in Nine Countries"
   image: ""
 ---

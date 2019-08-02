@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Family Migration and Early Life Outcomes
+name: John Smith
 
 # Username (this should match the folder name)
 authors:
 - admin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Project Manager
 
 # Organizations/Affiliations
 organizations:

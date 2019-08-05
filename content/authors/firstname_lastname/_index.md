@@ -17,18 +17,12 @@ organizations:
 - name: 
   url: ""
 
-#If you would like to add your personal interests, remove the hashtag in front of the lines and replace the topics.
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-
-#If you would like to add education history: remove the hashtag, list the subject on the "course" line, the institution, and the year. 
-#education:
-#  courses:
-#  - course:
-#    institution: 
-#    year: 
+#If you would like to add education history: remove the hashtag, list the subject on the "course" line, the institution, and the year. Instead of this, you could also add a link to your personal website (see the end of this document)
+education:
+  courses: Sociology (M.A.)
+  - course: The Ohio State University
+    institution: 2020
+    year: 
 #  - course:
 #    institution:
 #    year: 
@@ -37,8 +31,8 @@ organizations:
 #    year: 
 
 # Social/Academic Networking
-# If on your "page" you would like to have links to your email/github/twitter/google-scholar, use the forms below. On this page, only the section for an email icon is currently active. If you would like to use other forms, you just remove the hashtag (#) before each line in the section and replace the link with one to your page. If you would like another type of website on your page, see the link below for the icon to use and replace the options as necessary. For any questions, feel free to email Erick (axxe.1@osu.edu).
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# If on your "page" you would like to have links to your email/github/twitter/google-scholar, use the forms below. Currently, only the section for an email icon is active. If you would like to use other forms, you just remove the hashtag (#) before each line in the section and replace the link with one to your page. If you would like another type of website on your page, see the link below for the icon to use and replace the options as necessary. For any questions, feel free to email Erick (axxe.1@osu.edu).
+# For available icons, see: https://fontawesome.com/icons?d=gallery&s=brands for the icon_pack "fab" or https://fontawesome.com/icons?d=gallery&s=regular,solid for icon_pack "fas"
 social:
 - icon: envelope
   icon_pack: fas
@@ -53,9 +47,10 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/axxeerick
   
-# Organizational groups that you belong to. Copy and paste one of the following on the line below user_groups: Principal Investigators, Researchers, Site Partners, Graduate Students, Consultants
+# Copy and paste one of the following on the line below user_groups: Principal Investigators, Researchers, Site Partners, Graduate Students, Consultants
 user_groups:
 - Graduate Students
 ---
 [//]: # (Below, you can add a description of yourself and even add a link to your personal website. Feel free to replace or delete the following statement, I left it here as an example for how to add a link to the statement.)
+
 You can learn more about me [here](https://axxe.netlify.com/). 

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Social/Academic Networking
-# If on your "page" you would like to have links to your email/github/twitter/google-scholar, use the forms below. On this page, only the email section is currently active. If you would like to use other forms, you just remove the hashtag before each line in the section and replace the link with one to your page. If you would like another type of website to your page, see the link below for the icon to use and replace the options as necessary. For any questions, feel free to email Erick (axxe.1@osu.edu).
+# If on your "page" you would like to have links to your email/github/twitter/google-scholar, use the forms below. On this page, only the section for an email icon is currently active. If you would like to use other forms, you just remove the hashtag (#) before each line in the section and replace the link with one to your page. If you would like another type of website on your page, see the link below for the icon to use and replace the options as necessary. For any questions, feel free to email Erick (axxe.1@osu.edu).
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 social:

@@ -1,6 +1,6 @@
 ---
 # Display name // put your name here.
-name: 
+name: firstname lastname
 
 # Username (this should match the folder name // e.g. firstname_lastname)
 authors:

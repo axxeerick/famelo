@@ -19,15 +19,13 @@ organizations:
 
 #If you would like to add education history: remove the hashtag, list the subject on the "course" line, the institution, and the year. Instead of this, you could also add a link to your personal website (see the end of this document)
 - education:
-   - course: Sociology (M.A)
-    institution: The Ohio State University	
+ - course: Sociology (M.A.)
+    institution: The Ohio State University
     year: 2020
 #  - course:
 #    institution:
 #    year: 
-# - course:
-#    institution:
-#    year: 
+
 
 # Social/Academic Networking
 # If on your "page" you would like to have links to your email/github/twitter/google-scholar, use the forms below. Currently, only the section for an email icon is active. If you would like to use other forms, you just remove the hashtag (#) before each line in the section and replace the link with one to your page. If you would like another type of website on your page, see the link below for the icon to use and replace the options as necessary. For any questions, feel free to email Erick (axxe.1@osu.edu).

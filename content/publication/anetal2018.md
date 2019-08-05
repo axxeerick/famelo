@@ -29,11 +29,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://journals.sagepub.com/doi/10.1177/0971333617747345"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [name = "Article", url = "https://journals.sagepub.com/doi/10.1177/0971333617747345"]
+url_custom = [{name = "Article", url = "https://journals.sagepub.com/doi/10.1177/0971333617747345"}]
 
 [header]
 #image = ""

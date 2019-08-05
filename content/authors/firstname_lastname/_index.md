@@ -19,10 +19,9 @@ organizations:
 
 #If you would like to add education history: remove the hashtag, list the subject on the "course" line, the institution, and the year. Instead of this, you could also add a link to your personal website (see the end of this document)
 education:
-  courses: Sociology (M.A.)
-  - course: The Ohio State University
-    institution: 2020
-    year: 
+   - course: Sociology (M.A)
+    institution: The Ohio State University	
+    year: 2020
 #  - course:
 #    institution:
 #    year: 

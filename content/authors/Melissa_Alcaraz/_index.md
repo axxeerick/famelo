@@ -41,4 +41,4 @@ user_groups:
 ---
 [//]: # (Below, you can add a description of yourself and even add a link to your personal website. Feel free to replace or delete the following statement, I left it here as an example for how to add a link to the statement.)
 
-My research interests lie at the intersection of education, family formation, and migration. I am primarily interested in how individuals make decisions about education and family within high-migration contexts – and how these decisions inform later aspirations. Further, I am interested in how these decisions vary across gender and reduce or reproduce gender inequities. You can learn more about me [here](https://u.osu.edu/alcaraz.11). 
+My research interests lie at the intersection of education, family formation, and migration. I am primarily interested in how individuals make decisions about education and family within high-migration contexts -- and how these decisions inform later aspirations. Further, I am interested in how these decisions vary across gender and reduce or reproduce gender inequities. You can learn more about me [here](https://u.osu.edu/alcaraz.11). 

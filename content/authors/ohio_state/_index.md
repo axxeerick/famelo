@@ -1,6 +1,6 @@
 ---
 # Display name
-name: The Ohio State University
+name: 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: The Ohio State University
 
 # Organizations/Affiliations
 organizations:

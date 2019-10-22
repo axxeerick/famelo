@@ -6,6 +6,8 @@ role: Graduate Research Assistant
 organizations: 
 - name: The Ohio State University
   url: 'https://sociology.osu.edu/'
+bio: 
+interests:  
 social: 
 - icon: envelope
   icon_pack: fas

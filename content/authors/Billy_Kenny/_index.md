@@ -1,20 +1,20 @@
 ---
 name: Billy Kenny
 authors: 
-  -  Billy_Kenny
+- Billy_Kenny
 superuser: false
 role: Graduate Research Assistant
 organizations: 
-  -  name: The Ohio State University
-     url: "axxe.1@osu.edu"
+- name: The Ohio State University
+  url: "axxe.1@osu.edu"
 bio: 
 interests:
 social: 
-     icon: envelope
-  -  icon_pack: fas
-     link: 'mailto:axxe.1@osu.edu'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:axxe.1@osu.edu'
 user_groups: 
-  -  Graduate Students
+- Graduate Students
 ---
 [//]: 
 All about me.

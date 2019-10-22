@@ -6,7 +6,7 @@ superuser: false
 role: Graduate Research Assistant
 organizations: 
   -  name: The Ohio State University
-     url: axxe.1@osu.edu
+     url: "axxe.1@osu.edu"
 bio: 
 interests:
 social: 

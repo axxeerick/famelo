@@ -6,7 +6,7 @@ date = 2017-10-15
 
 title = "FAMELO"
 # Order that this section will appear in.
-weight = 1
+weight = 2
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.

@@ -35,7 +35,7 @@ height = "calc(100vh - 70px)"
   #cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Our team!"
+  title = ""
   content = ""
   align = "left"
 
@@ -44,11 +44,11 @@ height = "calc(100vh - 70px)"
   #overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  #title = ""
+  #content = "I am right aligned :smile:"
+  #align = "right"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  #overlay_color = "#333"  # An HTML color value.
+  #overlay_img = ""  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++

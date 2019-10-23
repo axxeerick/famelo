@@ -4,10 +4,6 @@ widget = "hero"
 active = true
 date = 2017-10-15
 
-header:
-  image: "header.png"
-  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
-
 title = "FAMELO"
 # Order that this section will appear in.
 weight = 1
@@ -25,6 +21,10 @@ weight = 1
 # [cta]
   # url = "./post/getting-started/"
   # label = '<i class="fa fa-download"></i> Install Now'
+
+header:
+  image: "header.png"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
 <br>

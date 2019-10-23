@@ -1,12 +1,12 @@
-header:
-  image: "header.png"
-  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
-
 +++
 # Hero widget.
 widget = "hero"
 active = true
 date = 2017-10-15
+
+header:
+  image: "header.png"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 title = "FAMELO"
 # Order that this section will appear in.

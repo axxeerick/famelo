@@ -12,7 +12,7 @@ weight = 1
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "header.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -21,10 +21,6 @@ weight = 1
 # [cta]
   # url = "./post/getting-started/"
   # label = '<i class="fa fa-download"></i> Install Now'
-
-header:
-  image: "header.png"
-  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
 <br>

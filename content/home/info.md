@@ -13,7 +13,7 @@ weight = 2
 
 +++
 
-The project is made up of three distinct but interlinked studies analyzing children's:
+The Family Migration and Early Life Outcomes (FAMELO) project studies the dynamic role migration may play in children’s lives. The project is made up of three distinct but interlinked studies analyzing children's:
 
 1. Socioemotional development
 2. Educational aspirations and expectations

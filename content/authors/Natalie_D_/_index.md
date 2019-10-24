@@ -16,4 +16,4 @@ user_groups:
 ---
 
 Dr. Eggum-Wilkens researches child, social, and cultural factors that shape children’s and adolescents' social, school, and psychological adjustment internationally. She has published over 50 articles and chapters, and her research has been funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development and The Brady Education Foundation. She is a Consulting Editor for Developmental Psychology. Her methodological interests involve latent variable modeling of longitudinal data.
-You can learn more about my work [here](https://thesanfordschool.asu.edu/eclipse).
+You can learn more about her work [here](https://thesanfordschool.asu.edu/eclipse).

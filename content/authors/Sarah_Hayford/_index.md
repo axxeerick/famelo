@@ -12,7 +12,7 @@ social:
   icon_pack: fas
   link: 'mailto:hayford.10@osu.edu'
 user_groups: 
-- Principal Investigator
+- Principal Investigators
 ---
 
 

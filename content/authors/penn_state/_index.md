@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Penn State
+role: Pennsylvania State University
 
 # Organizations/Affiliations
 #organizations:

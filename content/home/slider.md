@@ -42,4 +42,14 @@ height = "500px"
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "group.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "right"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "FAMELOW2Moz.jpg"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  
 +++

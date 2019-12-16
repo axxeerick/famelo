@@ -1,7 +1,7 @@
 ---
 name: Dra. Bertha L. Nuño-Gutiérrez
 authors: 
-- bertha_NuñoGutiérrez
+- bertha_n
 superuser: false
 role: Site Partner in Mexico
 organizations: 

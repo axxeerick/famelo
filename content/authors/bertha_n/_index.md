@@ -16,4 +16,4 @@ user_groups:
 ---
 
 
-You can learn more about me [here](www.institutoimep.com.mx) and [here](www.ceic.cucba.udg.mx).
+You can learn more about me [here](http://www.institutoimep.com.mx/) and [here](http://www.ceic.cucba.udg.mx/).

@@ -1,6 +1,7 @@
 +++
 date = "2017-01-01T00:00:00"
 title = "An Exploration of Subjective Adulthood in Mexico, Mozambique, and Nepal"
+authors = ["Erick Axxe", "Sarah R. Hayford"]
 abstract = "In post-industrialized nations, the transition to adulthood is evolving to reflect the needs of new economies, the role of education in human development, and the expected responsibilities of adolescents in households.  Termed ?emerging adulthood? (Arnett 2000), this new life stage is predicted to spread across the globe as Western social institutions disseminate to new contexts. However, the relevance of this construct to low-income contexts is unclear. Few studies have examined subjective perceptions of adult identity in low-income settings, and the factors that contribute to that feeling are not well understood. In this paper, we compare young people?s subjective sense of adulthood in Mexico, Mozambique, and Nepal, drawing on household-based survey data from the Family Migration Context and Early Life Outcomes Project (FAMELO). This extended abstract presents preliminary results from ordinal logistic regression models with selected predictors. The completed paper will refine these models and discuss the theoretical implication of results. "
 abstract_short = ""
 event = "Population Association of America"

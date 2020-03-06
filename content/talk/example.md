@@ -7,7 +7,6 @@ abstract: "In post-industrialized nations, the transition to adulthood is evolvi
 abstract_short: ""
 event: "Population Association of America"
 event_url: "http://www.populationassociation.org/paaam/paa2020/"
-location: "Washington DC, United States"
 
 selected : false
 math : true

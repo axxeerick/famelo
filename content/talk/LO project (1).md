@@ -1,5 +1,5 @@
 ---
-title: Children’s well-being in diverse migration contexts: Goals, design, and preliminary findings from the FAMELO project
+title: "Children’s well-being in diverse migration contexts: Goals, design, and preliminary findings from the FAMELO project"
 authors: ["Glick, J. E., Agadjanian, V., Ghimire, D., Hayford, S., Santos, C., Wilkens, N., & Yabiku, S. "]
 date: 2020-11-1T11:00:00 
 publishdate: 2020-03-04

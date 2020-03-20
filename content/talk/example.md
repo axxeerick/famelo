@@ -22,4 +22,4 @@ url_video : ""
 # caption = "My caption :smile:"
 ---
 
-\tab \textbf{Presenter} \tab Erick Axxe
+**Presenter**  Erick Axxe

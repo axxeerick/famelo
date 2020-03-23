@@ -11,7 +11,7 @@ interval = 8000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "calc(80vh - 50px)"
+height = "450px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -23,7 +23,7 @@ height = "calc(80vh - 50px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/header_original.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/header_square.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).

@@ -1,7 +1,7 @@
 ---
 title: "An Exploration of Subjective Adulthood in Mexico, Mozambique, and Nepal"
 subtitle: "Presenting Author: Erick Axxe"
-authors: ["Erick Axxe"," Sarah R. Hayford"," ",]
+authors: ["Erick Axxe"," Sarah R. Hayford",]
 date: 2020-04-24T10:00:00 
 publishdate: 2020-03-04
 tags: [""]

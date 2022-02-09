@@ -23,10 +23,10 @@
 #  url = "#collaborators"
 #  weight = 50
 
-[[main]]
-  name = "Presentations"
-  url = "#talks"
-  weight = 35
+#[[main]]
+#  name = "Presentations"
+#  url = "#talks"
+#  weight = 35
 
 [[main]]
   name = "Publications"

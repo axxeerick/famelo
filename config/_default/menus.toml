@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Hero"
-  url = "#hero"
-  weight = 11
-
-[[main]]
   name = "Info"
   url = "#info"
   weight = 20

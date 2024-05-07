@@ -21,12 +21,12 @@ author_notes: []
 date: '2021-03-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-05-07T14:48:07.593793Z'
+publishDate: '2024-05-07T15:44:31.938763Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- '2'
 
 # Publication name and optional abbreviated publication name.
 publication: '*Child and Adolescent Social Work Journal*'

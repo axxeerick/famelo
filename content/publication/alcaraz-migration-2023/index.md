@@ -16,12 +16,12 @@ author_notes: []
 date: '2023-09-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-05-07T14:48:07.601640Z'
+publishDate: '2024-05-07T15:44:31.945938Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- '2'
 
 # Publication name and optional abbreviated publication name.
 publication: '*International Migration Review*'

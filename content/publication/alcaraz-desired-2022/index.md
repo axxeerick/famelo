@@ -100,4 +100,3 @@ links:
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jomf.12815
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -1,0 +1,31 @@
+/* Keep portrait-mobile slides wide enough to show the complete image.
+ * The widget's inline 80vh height combines poorly with background-size: cover
+ * on narrow screens, leaving only a highly cropped center strip visible. */
+@media (max-width: 991.98px) and (orientation: portrait) {
+  .home-section.wg-slider .carousel-inner .wg-hero {
+    height: clamp(220px, 60vw, 540px) !important;
+    background-size: contain;
+    background-position: center;
+  }
+
+  .home-section.wg-slider .carousel-inner .carousel-item:first-child {
+    background-color: #fff;
+  }
+
+  .home-section.wg-slider .carousel-inner .carousel-item:not(:first-child) {
+    background-color: #111;
+  }
+
+  .home-section.wg-slider .carousel-control-prev-icon,
+  .home-section.wg-slider .carousel-control-next-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.45);
+    background-size: 45% 45%;
+  }
+
+  .home-section.wg-slider .carousel-indicators li {
+    background-color: rgba(0, 0, 0, 0.55);
+  }
+}

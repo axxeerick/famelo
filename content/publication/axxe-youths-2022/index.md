@@ -86,4 +86,3 @@ links:
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jora.12731
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
